@@ -1,5 +1,5 @@
 ---
-{layout: post, title: Jekyll}
+{layout: page, title: Jekyll}
 ---
 * Inhaltsverzeichnis
 {:toc}
